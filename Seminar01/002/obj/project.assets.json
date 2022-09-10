@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LabNeko\\Seminar01\\Seminar01.csproj",
-      "projectName": "Seminar01",
-      "projectPath": "D:\\LabNeko\\Seminar01\\Seminar01.csproj",
+      "projectUniqueName": "D:\\LabNeko\\Seminar01\\002\\002.csproj",
+      "projectName": "002",
+      "projectPath": "D:\\LabNeko\\Seminar01\\002\\002.csproj",
       "packagesPath": "C:\\Users\\NekoMausu\\.nuget\\packages\\",
-      "outputPath": "D:\\LabNeko\\Seminar01\\obj\\",
+      "outputPath": "D:\\LabNeko\\Seminar01\\002\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NekoMausu\\AppData\\Roaming\\NuGet\\NuGet.Config"
