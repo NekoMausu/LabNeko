@@ -1,0 +1,15 @@
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\008.csproj.AssemblyReference.cache
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\008.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\008.AssemblyInfoInputs.cache
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\008.AssemblyInfo.cs
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\008.csproj.CoreCompileInputs.cache
+D:\LabNeko\Seminar01\008\bin\Debug\net6.0\008.exe
+D:\LabNeko\Seminar01\008\bin\Debug\net6.0\008.deps.json
+D:\LabNeko\Seminar01\008\bin\Debug\net6.0\008.runtimeconfig.json
+D:\LabNeko\Seminar01\008\bin\Debug\net6.0\008.dll
+D:\LabNeko\Seminar01\008\bin\Debug\net6.0\008.pdb
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\008.dll
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\refint\008.dll
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\008.pdb
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\008.genruntimeconfig.cache
+D:\LabNeko\Seminar01\008\obj\Debug\net6.0\ref\008.dll
