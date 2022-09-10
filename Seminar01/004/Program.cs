@@ -6,14 +6,8 @@ Console.WriteLine("Введите второе число ");
 int b = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите третье число ");
 int c = int.Parse(Console.ReadLine());
-int max = a;
-if (max < b) 
-{
-    max = b;
-    if (max < c) Console.WriteLine($"Максимальное число {c}");
-    else Console.WriteLine($"Максимальное число {max}");
-}
-else if (max > c) Console.WriteLine($"Максимальное число {max}");
+if (a>b&&a>c)  Console.WriteLine($"Максимальное число {a}");
+else if (b > c) Console.WriteLine($"Максимальное число {b}");
 else Console.WriteLine($"Максимально число {c}");
 
 
