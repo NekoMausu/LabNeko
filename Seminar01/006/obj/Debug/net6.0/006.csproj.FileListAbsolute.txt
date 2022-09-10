@@ -1,0 +1,15 @@
+D:\LabNeko\Seminar01\006\bin\Debug\net6.0\006.exe
+D:\LabNeko\Seminar01\006\bin\Debug\net6.0\006.deps.json
+D:\LabNeko\Seminar01\006\bin\Debug\net6.0\006.runtimeconfig.json
+D:\LabNeko\Seminar01\006\bin\Debug\net6.0\006.dll
+D:\LabNeko\Seminar01\006\bin\Debug\net6.0\006.pdb
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\006.csproj.AssemblyReference.cache
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\006.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\006.AssemblyInfoInputs.cache
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\006.AssemblyInfo.cs
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\006.csproj.CoreCompileInputs.cache
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\006.dll
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\refint\006.dll
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\006.pdb
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\006.genruntimeconfig.cache
+D:\LabNeko\Seminar01\006\obj\Debug\net6.0\ref\006.dll
