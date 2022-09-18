@@ -17,8 +17,6 @@ void tree(int Depth)
             }
             Console.Write("*");
             d--;
-            
-
         }
         v += 2;
         Console.WriteLine(" ");
