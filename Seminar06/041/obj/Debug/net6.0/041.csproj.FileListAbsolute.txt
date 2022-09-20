@@ -1,0 +1,15 @@
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\041.csproj.AssemblyReference.cache
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\041.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\041.AssemblyInfoInputs.cache
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\041.AssemblyInfo.cs
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\041.csproj.CoreCompileInputs.cache
+D:\LabNeko\Seminar06\041\bin\Debug\net6.0\041.exe
+D:\LabNeko\Seminar06\041\bin\Debug\net6.0\041.deps.json
+D:\LabNeko\Seminar06\041\bin\Debug\net6.0\041.runtimeconfig.json
+D:\LabNeko\Seminar06\041\bin\Debug\net6.0\041.dll
+D:\LabNeko\Seminar06\041\bin\Debug\net6.0\041.pdb
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\041.dll
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\refint\041.dll
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\041.pdb
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\041.genruntimeconfig.cache
+D:\LabNeko\Seminar06\041\obj\Debug\net6.0\ref\041.dll

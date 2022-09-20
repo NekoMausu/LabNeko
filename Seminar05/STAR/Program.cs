@@ -26,7 +26,7 @@ void Sort(int[] massiv)
 
 
 
-int[] array = new int[5];
+int[] array = new int[20];
 for (int i = 0; i < array.Length; i++)
     array[i] = new Random().Next(0, 10);
 Console.WriteLine($"{string.Join(" ", array)}");
