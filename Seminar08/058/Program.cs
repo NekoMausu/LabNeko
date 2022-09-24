@@ -56,3 +56,4 @@ int[,] array2 = GetArray(n, m);
 ShowArray(array2);
 Console.WriteLine();
 ShowArray(Power(array, array2));
+Console.WriteLine($"{array.GetLength(1)}");
