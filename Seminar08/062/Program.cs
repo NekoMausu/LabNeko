@@ -42,7 +42,7 @@ void ShowArray(int[,] array)
     {
         for (int m = 0; m < array.GetLength(1); m++)
         {
-            Console.Write($"{array[n, m]} ");
+            Console.Write($"{array[n, m]}\t");
         }
         Console.WriteLine();
     }
